@@ -1,1 +1,1 @@
-A simple password generator made using HTML and CSS.
+A simple password generator made using HTML, CSS and JAVASCRIPT.
